@@ -3,5 +3,5 @@ elements.plutonium = {
 	behavior: behaviors.POWDER,
 	category: "powders",
 	state: "solid",
-	density: 21500
+	density: 2150000
 }
