@@ -1,5 +1,5 @@
 elements.plutonium = {
-	color: "",
+	color: "#ff0000",
 	behavior: [
 		"XX|XX|XX",
 		"XX|XX|XX",
