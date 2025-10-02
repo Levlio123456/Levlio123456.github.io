@@ -1,9 +1,7 @@
 elements.plutonium = {
-	color: ["#ff0000", "#00ff00", "#0000ff"],
-	behavior: behaviors.POWDER,
+	color: ["#ff0000", "#ee0000", "#aa0000"],
+	behavior: behaviors.SOLID,
 	category: "powders",
 	state: "solid",
-	density: 2150000,
-	hardness: 1.0,
-	breakInto: "plutonium"
+	density: 2150
 }
