@@ -1,5 +1,5 @@
 elements.plutonium = {
-	color: ["#ff0000", "#ee0000", "#aa0000"],
+	color: ["#cf722b", "#ba6625", "#c96d26", "#ba6523", "#ad662f", "#c96e28", "#cf7734", "#ba692b"],
 	behavior: behaviors.SOLID,
 	category: "powders",
 	state: "solid",
