@@ -4,5 +4,6 @@ elements.plutonium = {
 	category: "powders",
 	state: "solid",
 	density: 2150,
-	hardness: 0.5
+	hardness: 0.5,
+	breakInto: "rock"
 }
