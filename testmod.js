@@ -5,5 +5,5 @@ elements.plutonium = {
 	state: "solid",
 	density: 2150,
 	hardness: 0.5,
-	breakInto: "air"
+	breakInto: "uranium"
 }
